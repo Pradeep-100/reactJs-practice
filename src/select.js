@@ -3,7 +3,7 @@ import React from 'react'
 function Select(props){
     return(
         <div>
-            <h1>hai {props.name}</h1>
+            <h1>hii {props.name}</h1>
         </div>
     )
 }
